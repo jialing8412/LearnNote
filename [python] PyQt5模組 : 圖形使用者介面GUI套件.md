@@ -1,4 +1,22 @@
 
+# 踩過的坑
+要在VSCode配置designer.exe的位置
+
+ex 我目前的: C:\Users\Jialing.Tsai\AppData\Local\Programs\Python\Python37-32\Lib\site-packages\qt5_applications\Qt\bin
+
+![image](https://user-images.githubusercontent.com/46884089/128482866-ed7384d9-efe3-4efe-8274-aab98caf358e.png)
+
+
+才能順利叫出UI的畫面
+![image](https://user-images.githubusercontent.com/46884089/128483057-d6f1bee2-d010-48b5-bcad-9ebc7f6b340c.png)
+![image](https://user-images.githubusercontent.com/46884089/128483109-b6ea259e-7e58-40aa-943e-1cca940da654.png)
+
+
+
+
+
+
+
 ***
 
 # 參考資料
@@ -13,3 +31,5 @@
 > https://cloud.tencent.com/developer/article/1704014
 * [ PyQt入门教程 ] Qt Designer工具的使用
 > https://www.cnblogs.com/linyfeng/p/11223707.html
+* VSCode配置PyQt5和designer
+> https://www.huaweicloud.com/articles/52cc00ef1cd933641679f32ac806890f.html
