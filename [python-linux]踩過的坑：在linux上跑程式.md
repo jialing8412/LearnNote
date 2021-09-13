@@ -1,12 +1,19 @@
 # 套件安裝不了
 
-### 因為 sever 是 python 2.7，但套件幾乎都是新的版本(3.6)，所以安裝套件會失敗。
-
-先跳出(base)的狀態
+### 因為 sever 是 python 2.7，但套件是新的版本(3.6)，安裝套件會失敗。
 
 ```python
-conda deactivate
+conda deactivate # 先跳出(base)的狀態
+
+https://docs.conda.io/en/latest/miniconda.html#linux-installers -> 3.7 64-bit
+conda create -n py37 python==3.7
+conda activate py37 # 創一個虛擬機
+pip install -r requirements.txt # 安裝套件
+pip install git+https://github.com/gregorias/samplerate.git
+
 ```
+
+之後使用 conda activate py37 就能進去虛擬環境跑程式了。
 
 ----------
 
