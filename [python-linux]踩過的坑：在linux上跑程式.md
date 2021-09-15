@@ -15,6 +15,10 @@ pip install git+https://github.com/gregorias/samplerate.git
 
 之後使用 conda activate py37 就能進去虛擬環境跑程式了。
 
+* 參考資料：
+
+  https://blog.csdn.net/hardhard123/article/details/113251805
+
 ----------
 
 # 錯誤訊息
@@ -65,5 +69,5 @@ pip install git+https://github.com/gregorias/samplerate.git
   
   http://sql313.com/index.php/43-main-blogs/maincat-dba/62-using-notepad-to-change-end-of-line-characters
   
-
+  https://blog.csdn.net/NiYintang/article/details/86124338
 
