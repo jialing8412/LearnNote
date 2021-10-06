@@ -4,7 +4,6 @@
 
 ```python
 conda deactivate # 先跳出(base)的狀態
-
 wget https://docs.conda.io/en/latest/miniconda.html#linux-installers -> 3.7 64-bit
 conda create -n py37 python==3.7
 conda activate py37 # 創一個虛擬機
