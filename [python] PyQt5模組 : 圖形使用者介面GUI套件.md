@@ -33,3 +33,5 @@ ex 我目前的: C:\Users\Jialing.Tsai\AppData\Local\Programs\Python\Python37-32
 > https://www.cnblogs.com/linyfeng/p/11223707.html
 * VSCode配置PyQt5和designer
 > https://www.huaweicloud.com/articles/52cc00ef1cd933641679f32ac806890f.html
+* 「視窗程式設計：Python實作」課程
+> http://winlab.ee.yuntech.edu.tw/Python.htm
