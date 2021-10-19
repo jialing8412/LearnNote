@@ -2,10 +2,14 @@
 ### 參考資料
 * 為應用程式設計圖形化介面，使用Python Tkinter 模組
  > https://www.rs-online.com/designspark/python-tkinter-cn
- > Tkinter 視窗和按鈕
+* Tkinter 視窗和按鈕
  > http://www.tastones.com/zh-tw/tutorial/tkinter/tk-window-and-button/
- > Python GUI编程(Tkinter)
+* Python GUI编程(Tkinter)
  > https://www.runoob.com/python/python-gui-tkinter.html
+* Tkinter 教程 - 訊息框
+ > https://www.delftstack.com/zh-tw/tutorial/tkinter-tutorial/tkinter-message-box/
+* Python 速查手冊 12.9 圖形介面 tkinter
+ > http://kaiching.org/pydoing/py/python-library-tkinter.html
 
 # PyQt5 模組
 ### 參考資料
