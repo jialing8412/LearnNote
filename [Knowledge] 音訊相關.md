@@ -9,3 +9,6 @@
 
  * 一張圖秒懂常見線材規格
  > https://www.johntool.com/batch-open-files-automatically/
+
+ * 請問fft Size是什麼?
+ > https://modernmusician.com/forums/index.php?threads/%E8%AB%8B%E5%95%8Ffft-size%E6%98%AF%E4%BB%80%E9%BA%BC.36463/
