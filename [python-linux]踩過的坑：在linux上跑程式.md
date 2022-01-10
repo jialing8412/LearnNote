@@ -1,3 +1,18 @@
+#
+將 python 版本環境變成 3.7 
+```
+python -V
+wget -c https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh
+chmod 777 Miniconda3-latest-Linux-x86_64.sh
+bash Miniconda3-latest-Linux-x86_64.sh
+conda create -n condaenv anaconda
+conda init
+bash Miniconda3-latest-Linux-x86_64.sh
+gedit ~/.bashrc
+pip install conda
+conda create -n py37 python==3.7
+```
+-----
 # 套件安裝不了
 
 ### 因為 sever 是 python 2.7，但套件是新的版本(3.6)，安裝套件會失敗。
